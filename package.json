@@ -1,7 +1,7 @@
 {
   "name": "vue-lazyload-list",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "keywords": [
     "vue",
     "lazyload",
@@ -11,6 +11,10 @@
   "author": {
     "name": "fuguiguan",
     "url": "http://fuguiguan.cn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fuguiguan/lazy-list.git"
   },
   "description": "基于vue2.0实现的列表懒加载，列表item可见时加载",
   "scripts": {
